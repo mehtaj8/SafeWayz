@@ -1,0 +1,1 @@
+{"Howard_Street": [{"James_Street": {"Long": -99, "Lat": 100, "Num_crimes": 2, "crime_weight": 15}}, {"Main_Street": {"Long": -94, "Lat": 103, "Num_crimes": 5, "crime_weight": 3}}, {"Central_park": {"Long": -90, "Lat": 94, "Num_crimes": 8, "crime_weight": 4}}]}
