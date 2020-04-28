@@ -24,7 +24,6 @@
 - First method is to just install the APK file.
 - The APK is located in the following directory 'Java' > 'APK'
 - Copy this APK to your device internal storage. Then, using the file browser of your choice, install the application on your phone.
--***************************
 - Second method is to compile the Android studio code.
 - Android Studio project can be found in the following directory: 'Java' > 'SafeWays'.
 - Open this folder using Android Studio.
