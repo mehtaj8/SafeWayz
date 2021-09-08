@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="final_proj">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/2XB3PROJECT/src/final_proj/jackson-annotations-2.1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/2XB3PROJECT/src/final_proj/jackson-core-2.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/2XB3PROJECT/src/final_proj/java-json.jar!/" />
+      <root url="jar://$PROJECT_DIR$/2XB3PROJECT/src/final_proj/json-20190722.jar!/" />
+      <root url="jar://$PROJECT_DIR$/2XB3PROJECT/src/final_proj/jackson-databind-2.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/2XB3PROJECT/src/final_proj/json-simple-1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

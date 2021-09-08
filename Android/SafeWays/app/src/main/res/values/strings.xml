@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SafeWays</string>
+    <string name="click_me">click me</string>
+    <string name="title_activity_dijkstra">DijkstraActivity</string>
+</resources>
