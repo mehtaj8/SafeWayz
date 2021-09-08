@@ -1,4 +1,4 @@
-# 2XB3-FinalProj-L02-Group2
+# SafeWayz
 
 ## SafeWayz Application
 - SafeWayz is a mobile application that helps users find the safest route throughout the city of San Francisco!
